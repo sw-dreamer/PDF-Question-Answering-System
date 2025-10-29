@@ -146,4 +146,9 @@ src/
 - 태스크별 스위칭 필요
 
 
+---
+# 결과
 
+<img width="1144" height="784" alt="image" src="https://github.com/user-attachments/assets/e4df0880-99d3-4864-b5b3-1655f1743728" />
+
+<img width="1155" height="883" alt="image" src="https://github.com/user-attachments/assets/e41959ac-8f66-43c9-a98a-1e963898e664" />
