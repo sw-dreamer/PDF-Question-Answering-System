@@ -1,2 +1,3 @@
-# PDF-Question-Answering-System
-PDF Question Answering System
+# AI 기반 PDF 문서 질의응답 시스템입니다.
+
+PDF를 업로드하고 한국어로 질문하면 문서 내용을 분석하여 답변해줍니다.
